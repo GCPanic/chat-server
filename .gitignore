@@ -1,4 +1,6 @@
 node_modules
 backup
 target
+package.tar.gz
+*.bak
 SEC
